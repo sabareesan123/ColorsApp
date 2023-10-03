@@ -1,0 +1,37 @@
+--	 insert into  Colors(id,color) values(1,'Red');
+--	 insert into  Colors(id,color) values(2,'Green');
+--	 insert into  Colors(id,color) values(3,'Blue');
+--	 insert into  Colors(id,color) values(4,'Yellow');
+--	 insert into  Colors(id,color) values(5,'Orange');
+--	 insert into  Colors(id,color) values(6,'Violet');
+	 
+--	  insert into  Votes values(1,'Brooklyn',2000,'Green');
+--	  insert into  Votes values(2,'Selma',3000,'Green');
+--	    insert into  Votes values(3,'Detroit',2456,'Green');
+--	  insert into  Votes values(4,'Anchorage',9098,'Green');
+
+	 
+--	  insert into  Votes values(5,'Brooklyn',8756,'Blue');
+--	  insert into  Votes values(6,'Selma',9870,'Blue');
+--	    insert into  Votes values(7,'Detroit',4658,'Blue');
+--	  insert into  Votes values(8,'Anchorage',9076,'Blue');
+--	 
+--	   insert into  Votes values(10,'Brooklyn',3489,'Yellow'));
+--	  insert into  Votes values(11,'Selma',9870,'Yellow'));
+--	    insert into  Votes values(12,'Detroit',3453,'Yellow'));
+--	  insert into  Votes values(13,'Anchorage',9834,'Yellow'));
+--	 
+--	  insert into  Votes values(14,'Brooklyn',2239,'Orange');
+--	  insert into  Votes values(15,'Selma',3390,'Orange');
+--	    insert into  Votes values(16,'Detroit',9099,'Orange');
+--	  insert into  Votes values(17,'Anchorage',3490,'Orange');
+--	 
+--	  insert into  Votes values(18,'Brooklyn',2000,'Violet');
+--	  insert into  Votes values(19,'Selma',3000,'Violet');
+--	    insert into  Votes values(20,'Detroit',2456,'Violet');
+--	  insert into  Votes values(21,'Anchorage',9098,'Violet');
+--	  
+--	  	  insert into  Votes values('Brooklyn',6,2000);
+--	  insert into  Votes values('Selma',6,3000);
+--	    insert into  Votes values('Detroit',6,2456);
+--	  insert into  Votes values('Anchorage',6,9098);
